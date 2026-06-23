@@ -14,3 +14,4 @@ jobs:
         run: make lint
       - name: test
         run: make test
+      - uses: hexlet-components/hello-from-hexlet-action@release
